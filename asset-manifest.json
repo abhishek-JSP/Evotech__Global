@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Evotech__Global/static/css/main.432d185b.css",
+    "main.js": "/Evotech__Global/static/js/main.1837ca75.js",
+    "static/js/787.917857b7.chunk.js": "/Evotech__Global/static/js/787.917857b7.chunk.js",
+    "index.html": "/Evotech__Global/index.html",
+    "main.432d185b.css.map": "/Evotech__Global/static/css/main.432d185b.css.map",
+    "main.1837ca75.js.map": "/Evotech__Global/static/js/main.1837ca75.js.map",
+    "787.917857b7.chunk.js.map": "/Evotech__Global/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.432d185b.css",
+    "static/js/main.1837ca75.js"
+  ]
+}
