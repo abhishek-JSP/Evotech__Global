@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "name": "Abhishek Kumar",
+      "gender": "male",
+      "nationality": "Indian",
+      "email": "abojha565@gmail.com",
+      "phone": "8878212175",
+      "address": "bangalore",
+      "message": "jjhkhkjkjlk",
+      "id": 1
+    },
+    {
+      "name": "shivam Rai",
+      "gender": "male",
+      "nationality": "Indian",
+      "email": "shivam@gmail.com",
+      "phone": "987654323",
+      "address": "Bhilai",
+      "message": "uiyutyy",
+      "id": 2
+    },
+    {
+      "name": "Sonu Sagar",
+      "gender": "male",
+      "nationality": "American",
+      "email": "sonu@gmail.com",
+      "phone": "9877654323",
+      "address": "Bilashpur",
+      "message": "iuytrdsdfghjkm",
+      "id": 3
+    }
+   
+   
+  ]
+}
