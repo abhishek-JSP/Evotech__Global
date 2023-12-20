@@ -1,0 +1,31 @@
+
+.app-header {
+    background-color: #33cccc;
+    color: black;
+    padding: 20px 0;
+    text-align: center;
+    
+  }
+  .login{
+    margin-left: 300px;
+    
+  }
+  .login_btn{
+    background-color: rgb(71, 207, 17);
+  }
+  
+  .header-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 2em;
+  }
+  
+  p {
+    color: #fff;
+    margin-top: 10px;
+  }
+  
